@@ -4,7 +4,7 @@ on:
     branches:
       - main
 jobs:
-  aqua:
+  test:
     name: Aqua scanner
     runs-on: ubuntu-latest
     permissions:
