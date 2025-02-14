@@ -1,7 +1,7 @@
 name: Aqua
 on: pull_request
 jobs:
-  aqua:
+  test:
     name: Aqua scanner
     runs-on: ubuntu-latest
     permissions:
